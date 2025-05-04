@@ -56,9 +56,3 @@ Bu proje, C# dilinde temel veri yapıları ve algoritmaların anlaşılır, sade
 ## 🧠 Katkıda Bulunma
 
 İyileştirme önerileriniz ve katkılarınız için pull request gönderebilirsiniz. 🙌
-
----
-
-## 📄 Lisans
-
-Bu proje MIT lisansı ile lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakabilirsiniz.
